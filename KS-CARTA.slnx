@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CartaVesting.Tests/CartaVesting.Tests.csproj" />
+  <Project Path="CartaVesting/CartaVesting.csproj" />
+</Solution>

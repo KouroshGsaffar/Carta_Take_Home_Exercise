@@ -1,0 +1,2 @@
+E001,Alice Smith,ISO-001,299.8
+E002,Bobby Jones,ISO-002,234.0
